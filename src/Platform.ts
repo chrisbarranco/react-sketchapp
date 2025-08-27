@@ -1,5 +1,7 @@
 import { getSketchVersion } from './utils/getSketchVersion';
 
+
+
 export const Platform = {
   OS: 'sketch',
   Version: getSketchVersion(),

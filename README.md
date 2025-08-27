@@ -68,3 +68,5 @@ Found a novel use? We'd love to hear about it!
 - [Data Fetching](http://airbnb.io/react-sketchapp/docs/guides/data-fetching.html)
 - [FAQ](http://airbnb.io/react-sketchapp/docs/FAQ.html)
 - [Contributing](https://github.com/airbnb/react-sketchapp/blob/master/.github/CONTRIBUTING.md)
+
+![YOLO](https://img.shields.io/badge/YOLO-Lets_Go!-brightgreen)

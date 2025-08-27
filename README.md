@@ -69,5 +69,6 @@ Found a novel use? We'd love to hear about it!
 - [FAQ](http://airbnb.io/react-sketchapp/docs/FAQ.html)
 - [Contributing](https://github.com/airbnb/react-sketchapp/blob/master/.github/CONTRIBUTING.md)
 
-![YOLO](https://img.shields.io/badge/YOLO-🔥-orange)
+![YOLO](https://img.shields.io/badge/YOLO-Lets_Go!-brightgreen)
+
 

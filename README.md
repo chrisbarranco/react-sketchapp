@@ -43,6 +43,8 @@ const App = props => (
 
 export default context => {
   render(<App message="Hello world!" />, context.document.currentPage());
+
+
 };
 ```
 
